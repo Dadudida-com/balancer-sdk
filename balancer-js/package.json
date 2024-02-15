@@ -98,7 +98,7 @@
     "@ethersproject/constants": "^5.4.0",
     "@ethersproject/contracts": "^5.4.0",
     "@ethersproject/providers": "^5.4.5",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "graphql": "^15.6.1",
     "graphql-request": "^3.5.0",
     "json-to-graphql-query": "^2.2.4",
